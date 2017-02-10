@@ -10,7 +10,7 @@ The necessary input for the function `mergeTCGAmaturemirna` is:
 
 The function `mergeTCGAmaturemirna` requires the libraries `splitstackshape`, `qdap`, and `plyr`, while `prep_mirbase_name_table` requires the library `Biostrings`.
 
-Set the working directory to the raw data table, and run the function
+Set the working directory to the raw data folder, and run the function
 
 ```R
 maturemirnatable <- mergeTCGAmaturemirna(mirfileIDs, mirbasenames)
