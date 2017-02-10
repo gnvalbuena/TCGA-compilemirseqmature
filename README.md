@@ -18,4 +18,4 @@ maturemirnatable <- mergeTCGAmaturemirna(mirfileIDs, mirbasenames)
 
 This will produce a data table of mature miRNA counts for all samples listed, which can then be taken forward to normalization, etc.
 
-Code was adapted from an existing set of scripts in rptashkin/TCGA_miRNASeq_matrix.
+Code was adapted from an existing set of scripts in github/rptashkin/TCGA_miRNASeq_matrix.
